@@ -1,3 +1,13 @@
+## 개인 Comment
+
+* Win32 Capture Example
+
+## Todo
+
+- [X] nothing
+
+---
+
 # Win32CaptureSample
 A simple sample using the Windows.Graphics.Capture APIs in a Win32 application.
 
